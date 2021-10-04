@@ -33,7 +33,7 @@ build/
 .vscode/
 
 ### Application configuration Properties file ###
-src/main/resources/application.properties
+application.properties
 
 ### Secure bundle file ###
 src/main/resources/secure-connect-akgarg0472.zip
