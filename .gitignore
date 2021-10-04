@@ -32,8 +32,8 @@ build/
 ### VS Code ###
 .vscode/
 
-### Application configuration Properties file ###
-application.properties
+### Sensitive Data ###
+src/main/resources/application.properties
 
 ### Secure bundle file ###
 src/main/resources/secure-connect-akgarg0472.zip
